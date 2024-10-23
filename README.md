@@ -26,5 +26,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+(https://imgur.com/a/4YcyjJ4)
+Here you can see how to create a ticket saying that a user is submitting a ticket stating that the banking system is down
 
+(https://imgur.com/a/4YcyjJ4)
+Here a user is allowed to observe different properties that belongs to the ticket that was created:
+  Priority
+	Department
+	SLA
+	Assigned To
 
+(https://imgur.com/a/4YcyjJ4)
+In this step you can set the severity of the ticket and also, assign certsin tickets to a certain team
+
+(https://imgur.com/a/4YcyjJ4)
+Lastly, when the ticket is solved the person who worked the ticket can close it and be sure to report all findings before sucessfully closing 
+
+ 
